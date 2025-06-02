@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm a bachelor student in Computer Science
-Passionate about automation, ...
+- I'm a bachelor student in Computer Science.
+- Passionate about automation, ...
 
 ## Currently working on
 - [**RAM-USB**](https://github.com/Riccardo-Gottardi/backup_service), a multiuser remote backup server, with a zero knowledge policy and an architecture to make it geo-distributed (working with [@Verryx-02]((https://github.com/Verryx-02)))
