@@ -1,6 +1,7 @@
 ## Hi there 👋
-- I'm a bachelor student in Computer Science.
-- Passionate about automation,
+- I'm a bachelor student in Computer Science at the University of Udine.
+- Passionate about AI applications (like Verity, Skydio, ...) and every software that can have a beneficial impact on people life.
+- 
 
 ---
 
