@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I'm a bachelor student in Computer Science at the University of Udine.
-- Passionate about AI applications (like Verity, Skydio, ...) and every software that can have a beneficial impact on people life.
+- Passionate about AI (especially machine learning) and it's applications (like Verity, Skydio, ...) and every software that can have a beneficial impact on people life.
 - 
 
 ---
