@@ -26,7 +26,7 @@
 - [**RAM-USB**](https://github.com/Verryx-02/ram-usb), a multi-user remote backup server, with a zero-knowledge policy and an architecture to make it geo-distributable. I've contributed to the sistem design (architecture, protocols, ...) (worked with [@Verryx-02](https://github.com/Verryx-02))
 
 ## University projects
-- [**ComparativeAnalysis-SelectionAlgorithms**](https://github.com/NovaActias/ComparativeAnalysis-SelectionAlgorithms), a comparative analysis of three k-th element selection algorithm, for the exam of "Algoritms and data structure" (worked with [@Verryx-02](https://github.com/Verryx-02) and [@NovaActias](https://github.com/NovaActias)
+- [**ComparativeAnalysis-SelectionAlgorithms**](https://github.com/NovaActias/ComparativeAnalysis-SelectionAlgorithms), a comparative analysis of three k-th element selection algorithm, for the exam of "Algoritms and data structure" (worked with [@Verryx-02](https://github.com/Verryx-02) and [@NovaActias](https://github.com/NovaActias))
 - place holder for the project developd for the exam of DataBases
 
 ---
