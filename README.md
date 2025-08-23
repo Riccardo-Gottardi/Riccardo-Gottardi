@@ -31,6 +31,23 @@
 <br/>
 
 ## Tech stack
+<table>
+  <tr>
+    <th>Editors</th>
+    <th>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /> 
+    </th>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <th>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    </th>
+  </tr>
+</table>
 
 ---
 <br/>
