@@ -1,9 +1,8 @@
 # Hi there 👋
 - I'm a Master student in Artificial intelligence and Cybersecurity at the University of Klagenfurt.
 - Passionate about:
-  - Data science
-  - Machine Learning & Deep Learning
   - Autonomous guidance systems
+  - Data science
 
 <br/>
 <br/>
@@ -30,8 +29,9 @@
 | Cathegory | Stack 
 | --------- | ----- 
 | **Most used languages** | ![python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
-| **Languages I wish to learn or improve on** | ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) 
-| **Tools** | ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![openai](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai&logoColor=white)
+| **Languages I wish to learn or improve on** | ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+| **Backend Technology** | ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+| **Tools** | ![claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![openai](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai&logoColor=white)
 | **OS** | ![macos](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 <br/>
