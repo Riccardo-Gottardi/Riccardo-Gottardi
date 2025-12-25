@@ -17,37 +17,23 @@
 
 # University projects
 - [**ComparativeAnalysis-SelectionAlgorithms**](https://github.com/NovaActias/ComparativeAnalysis-SelectionAlgorithms), a comparative analysis of three k-th element selection algorithms. Project for the bachelor exam in "Algorithms and data-structures" (worked with [@Verryx-02](https://github.com/Verryx-02) and [@NovaActias](https://github.com/NovaActias))
-- < Place holder : for the project developed for the exam of DataBases >
+- [**Library db**](https://github.com/Verryx-02/University-Library-db), a relational database to support a university library (worked with [@Verryx-02](https://github.com/Verryx-02), [@NovaActias](https://github.com/NovaActias) and [@AlessandroMattei](https://github.com/AlessandroMattei))
 
 <br/>
 <br/>
 
 # Tech stack
-<!-- 
-| Editors | ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![nvim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) 
--->
 | Cathegory | Stack 
 | --------- | ----- 
-| **Most used languages** | ![python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
-| **Languages I wish to learn or improve on** | ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-| **Backend Technology** | ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-| **Tools** | ![claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![openai](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai&logoColor=white)
-| **OS** | ![macos](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+| **Most used languages** | ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash-black.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+| **Languages I wish to learn or improve on** | ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-a90533.svg?style=for-the-badge&logo=erlang&logoColor=white)
+| **Backend Technology** | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+| **Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![OpenAI](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai&logoColor=white)
+| **OS** | ![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 <br/>
 <br/>
-<!--
-# A glimpse of human touch
-## Favourite films
-| Film | Motivation
-| ---- | ----------
-| **Interstellar** | One of the few films that has aroused a wide range of emotions in me
-| **The Gentleman** | I have loved the narration of the film
-| **Tenet** | I started to understand the film by half of it. From that point on I found the idea around which the film is orbiting facinating 
-<br/>
-<br/>
--->
 
 # Contacts
-- github.rg.whenever790@passinbox.com
-- [**Linkedin**](https://www.linkedin.com/in/riccardo-gottardi-6a1199225)
+Wandering how you can reach me, well, here it is a news for you, I have an email for that:
+- contact.rg.relive570@passinbox.com
