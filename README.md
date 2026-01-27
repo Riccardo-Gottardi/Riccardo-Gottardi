@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hi There 👋
+
 - I'm a Master student in Artificial intelligence and Cybersecurity at the University of Klagenfurt.
 - Passionate about:
   - Autonomous guidance systems
@@ -7,33 +8,49 @@
 <br/>
 <br/>
 
-# Personal projects
-- 🚲🕶️ [**Cycling trip agency**](https://github.com/Riccardo-Gottardi/cycling_trip_agency) (bachelor thesis project) (under development)
-- 🧠📝 [**Brain-Down**](https://github.com/Riccardo-Gottardi/brain-down) (under development)
-- 🚀☄️ [**Asteroids**](https://github.com/Riccardo-Gottardi/Asteroids) (paused, it need refactoring)
+# Projects
 
-# Contributed to
-- [**RAM-USB**](https://github.com/Verryx-02/ram-usb), a multi-user remote backup server, with a zero-knowledge policy and an architecture to make it geo-distributable. I've contributed to the sistem design (architecture, protocols, ...) (worked with [@Verryx-02](https://github.com/Verryx-02))
+### Personal
 
-# University projects
-- [**ComparativeAnalysis-SelectionAlgorithms**](https://github.com/NovaActias/ComparativeAnalysis-SelectionAlgorithms), a comparative analysis of three k-th element selection algorithms. Project for the bachelor exam in "Algorithms and data-structures" (worked with [@Verryx-02](https://github.com/Verryx-02) and [@NovaActias](https://github.com/NovaActias))
-- [**Library db**](https://github.com/Verryx-02/University-Library-db), a relational database to support a university library (worked with [@Verryx-02](https://github.com/Verryx-02), [@NovaActias](https://github.com/NovaActias) and [@AlessandroMattei](https://github.com/AlessandroMattei))
+| Project name| Description | Dev state |
+| - | - | - | 
+| 🚲 [**Cycling trip agency**](https://github.com/Riccardo-Gottardi/cycling_trip_agency) | Bachelor thesis project. AI agent for cycling trip planning  | Completed
+| 🧠 [**Brain-Down**](https://github.com/Riccardo-Gottardi/brain-down) | Application to create mind-maps and schemas | Under-dev 
+| ☄️ [**Asteroids**](https://github.com/Riccardo-Gottardi/Asteroids) | A reproduction of the game Asteroids | Paused (need refactoring) 
+
+### Contribution
+
+| Project name | Description |
+| - | - |
+| [**RAM-USB**](https://github.com/Verryx-02/ram-usb) | A multiuser remote backup server, with a zero-knowledge policy and an architecture to make it geo-distributable. I've contributed to the system design (architecture, protocols, ...) <br/> (worked with [@Verryx-02](https://github.com/Verryx-02))
+
+### University
+
+| Project name | Description |
+| - | - |
+| [**Comparative Analysis of Selection Algorithms**](https://github.com/NovaActias/ComparativeAnalysis-SelectionAlgorithms) | A comparative analysis of three kth element selection algorithms. Project for the bachelor exam in "Algorithms and data-structures" <br/> (worked with [@Verryx-02](https://github.com/Verryx-02) and [@Majin-srs](https://github.com/Majin-srs))
+| [**University Library DB**](https://github.com/Riccardo-Gottardi/university-library-db) | A relational database to support a university library <br/> (worked with [@Verryx-02](https://github.com/Verryx-02), [@Majin-srs](https://github.com/Majin-srs) and [@AlessandroMattei](https://github.com/AlessandroMattei))
 
 <br/>
 <br/>
 
-# Tech stack
-| Cathegory | Stack 
-| --------- | ----- 
-| **Most used languages** | ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash-black.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-| **Languages I wish to learn or improve on** | ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-a90533.svg?style=for-the-badge&logo=erlang&logoColor=white)
-| **Backend Technology** | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-| **Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![OpenAI](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai&logoColor=white)
-| **OS** | ![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+# Tech Stack
+
+**Most used stuff**
+
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white) ![Claude+Claude code](https://img.shields.io/badge/Claude+code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+| Category | Tools |
+| - | - |
+**Known languages** | ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white) ![Cpp](https://img.shields.io/badge/C%2B%2B-335A99?style=for-the-badge&logo=c%2B%2B) ![Bash Script](https://img.shields.io/badge/bash-41474A?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+**Tools and Languages I wish to learn or improve on** |  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-a90533.svg?style=for-the-badge&logo=erlang&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-3E63E9?style=for-the-badge&logo=docker&logoColor=white)
+**Backend Technology** | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+**Tools** | ![Claude+Claude code](https://img.shields.io/badge/Claude+code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+**OS** | ![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-3376CD?style=for-the-badge&logo=windows&logoColor=white)
 
 <br/>
 <br/>
 
 # Contacts
-Wandering how you can reach me, well, here it is a news for you, I have an email for that:
+Wandering how you can reach me, well, I have an email for that 🤯:
 - contact.rg.relive570@passinbox.com
